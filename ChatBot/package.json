@@ -3,7 +3,16 @@
   "version": "0.0.0",
   "description": "ChatBot",
   "main": "app.js",
-  "author": {
-    "name": "Mohanty"
-  }
+  "author": "Mohanty",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chatbot"
+  },
+  "keywords": [
+    "training"
+  ],
+  "license": "ISC"
 }
